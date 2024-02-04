@@ -1,15 +1,6 @@
 This project includes various listing features with SwiftUI.
-You can easily access and test many features such as:
-
--Search page
--Fixed listing
--Constant grid list
--Horizontal listing
--Dynamic listing
-
+You can easily access and test many features such as search page, fixed listing, constant grid list, horizontal listing, dynamic listing.
 This is a great way to learn about and experiment with different listing features in SwiftUI.
-
-
 
 <img width="374" alt="Ekran Resmi 2024-02-04 23 13 26" src="https://github.com/yavuzkaanakyuz/Listing/assets/108089860/6a8157bb-dea9-4e87-affb-59ad32e085af">
 <img width="374" alt="Ekran Resmi 2024-02-04 23 13 39" src="https://github.com/yavuzkaanakyuz/Listing/assets/108089860/9871885a-0e1f-4edc-aec2-562e8ef759f7">
